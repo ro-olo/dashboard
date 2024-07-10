@@ -10,14 +10,14 @@
 }
 
 :root.dark {
-    --sidebar-bg-color: #1a2440;
+    --sidebar-bg-color: #082130;
     --sidebar-text-color: #d8dbdf;
-    --main-content-bg-color: #0f172a;
+    --main-content-bg-color: #1e293b;
     --main-content-text-color: #d4d8db;
     --search-text-icons: #bac3cd;
-    --cards-border: #26526f;
-    --cards-bg-color: rgb(54, 67, 89);
-    --shadows: #000000;
+    --cards-border: #2b7bac;
+    --cards-bg-color: #384d6d;
+    --shadows: #212121;
 }
 
 * {
